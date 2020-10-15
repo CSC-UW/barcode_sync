@@ -1,5 +1,6 @@
-# random_barcode_sync
-Use random sync pulses to map times from recording to another
+# barcode_sync
+Use random or incrementing-counter sync pulses to map times from recording to another.
+Incrementing-counter sync pulse code uses https://github.com/open-ephys/sync-barcodes. 
 
 ## Usage
 You can create a new conda environment from Cmder:
